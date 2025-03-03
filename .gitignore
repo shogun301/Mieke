@@ -1,0 +1,11 @@
+# Ignore backups
+*.bak
+*.~*
+
+# Ignore temp files from editors
+*.swp
+*.tmp
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
