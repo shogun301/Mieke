@@ -69,7 +69,7 @@ Here’s a **TL;DR bulletized summary** of the most important points from that m
 
 ---
 
-# Differentiating Delirium, Depression, and Psychosis
+# In Depth: Differentiating Delirium, Depression, and Psychosis
 
 **Introduction:** Delirium, depression, and psychosis are distinct clinical syndromes, but they often present with overlapping symptoms that can complicate diagnosis – especially in hospital or geriatric settings. For example, an elderly patient with hypoactive delirium may appear depressed, while a hyperactive delirious patient might seem psychotic ([
             A Cross-Sectional, Retrospective, and Comparative Study between Delirium and Non-Delirium Psychiatric Disorders in a Psychogeriatric Inpatient Population Referred to Consultation-Liaison Psychiatry Unit - PMC
