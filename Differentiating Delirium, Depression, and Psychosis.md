@@ -1,3 +1,74 @@
+Here’s a **TL;DR bulletized summary** of the most important points from that massive wall of text:
+
+---
+
+## **TL;DR – Key Takeaways for Differentiating Delirium, Depression, and Psychosis**
+
+### **Core Differences**  
+| Condition   | Time Course | Attention | Consciousness | Hallucinations | Mood | Common in... |
+|--------------|-------------|------------|----------------|----------------|-----|---------------|
+| **Delirium** | Acute (hours to days), fluctuates | **Impaired** (hallmark) | **Clouded**, fluctuating | Visual/tactile > auditory | Labile | Hospitalized, ICU, elderly |
+| **Depression** | Subacute (weeks to months), persistent | Normal (may seem poor from rumination) | Clear | Rare (except in psychotic depression) | Persistently low/sad | Elderly, medically ill |
+| **Psychosis** | Subacute to chronic | Normal (unless disorganized) | Clear | **Auditory** > visual | Variable; often flat or inappropriate | Adolescents/young adults, chronic cases |
+
+---
+
+### **Key Clinical Red Flags**
+- **Fluctuating alertness or attention = Delirium until proven otherwise.**
+- **Fixed false beliefs (delusions) + clear sensorium = Psychosis.**
+- **Sustained sadness + loss of interest = Depression.**
+
+---
+
+### **Common Misdiagnoses**
+- **Hypoactive delirium** = Often mistaken for depression (quiet, withdrawn patient).
+- **Hyperactive delirium** = Can resemble psychosis (agitated, hallucinating).
+- **Psychotic depression** = Confused with schizophrenia if mood symptoms are missed.
+- **Pre-existing psych disorder patient with acute change** = Always suspect delirium first, not a “relapse.”
+
+---
+
+### **Critical Diagnostic Clues**
+- **Acute onset + disorientation + inattention** = Delirium.
+- **Persistent mood symptoms without fluctuating sensorium** = Depression.
+- **Bizarre or systematized delusions + preserved attention** = Schizophrenia/primary psychosis.
+
+---
+
+### **Useful Tools**
+- **Delirium:** CAM (Confusion Assessment Method), 4AT, EEG (generalized slowing in delirium)
+- **Depression:** PHQ-9, GDS (for elderly)
+- **Psychosis:** No perfect screening tool, but BPRS or PANSS can quantify severity.
+
+---
+
+### **EEG Clue**
+- **Delirium = Slowed EEG.**
+- **Depression/Psychosis = Normal EEG (unless meds or sleep disorders present).**
+
+---
+
+### **Collateral History is Gold**
+- Ask family: "How was this person last week?" Sudden changes = delirium. Gradual decline = depression/dementia.
+
+---
+
+### **Response to Treatment**
+- **Delirium:** Improves rapidly if underlying cause is treated.
+- **Depression:** Gradual improvement over weeks with antidepressants.
+- **Psychosis:** Needs antipsychotics; often chronic.
+
+---
+
+### **Key Message**
+- If it’s **acute**, **fluctuating**, and attention is poor: think **delirium**.
+- If it’s **persistent low mood** with no clear sensorium changes: think **depression**.
+- If it’s **bizarre beliefs/hallucinations** with **clear sensorium**: think **psychosis**.
+- In all cases, consider **underlying medical causes first**, especially in hospitalized or elderly patients.
+
+
+---
+
 # Differentiating Delirium, Depression, and Psychosis
 
 **Introduction:** Delirium, depression, and psychosis are distinct clinical syndromes, but they often present with overlapping symptoms that can complicate diagnosis – especially in hospital or geriatric settings. For example, an elderly patient with hypoactive delirium may appear depressed, while a hyperactive delirious patient might seem psychotic ([
